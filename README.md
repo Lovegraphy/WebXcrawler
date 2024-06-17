@@ -22,18 +22,18 @@ Install dependencies:
 ```bash
 pip install requests beautifulsoup4
 ```
-Usage
+## Usage
 Run the script webXcrawler.py
 
-
+## Example
 python webcrawler.py
 Enter the starting URL: https://example.com
 Enter the maximum depth to crawl (1-5):
 Enter the maximum depth to crawl: 3
 
-Directory Structure
+## Directory Structure
 After crawling, the directory structure will look like this:
-
+```bash
 example.com/
 │
 ├── javascript_files/
@@ -51,6 +51,6 @@ example.com/
     ├── image.jpg
     └── ...
 
-
+```
 Screenshots:
 ![Screenshot (81)](https://github.com/Lovegraphy/WebXcrawler/assets/108510677/ecfdc069-4555-4c30-87fa-4937cf2ee7d9)
