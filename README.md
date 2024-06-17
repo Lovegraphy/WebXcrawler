@@ -16,7 +16,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/lovegraphy/WebXcrawler.git
-cd WebXCrawler
+cd WebXcrawler
 ```
 Install dependencies:
 ```bash
