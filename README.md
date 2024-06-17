@@ -2,22 +2,6 @@
 
 WebXCrawler is a Python tool for recursively crawling web pages and organizing retrieved content into files based on their types. It provides basic functionality to initiate a web crawl from a specified starting URL and allows customization of the maximum depth of the crawl.
 
-!   ╔═════════════════════════════════════════╗
-    ║                                         ║
-    ║             ███╗   ██╗                  ║
-    ║             ████╗  ██║                  ║
-    ║             ██╔██╗ ██║                  ║
-    ║             ██║╚██╗██║                  ║
-    ║             ██║ ╚████║                  ║
-    ║             ╚═╝  ╚═══╝                  ║
-    ║                                         ║
-    ║             WebXCrawler                 ║
-    ║                                         ║
-    ║            Author: Lovegraphy           ║
-    ║                                         ║
-    ║  GitHub: https://github.com/lovegraphy  ║
-    ║                                         ║
-    ╚═════════════════════════════════════════╝
 
 ## Features
 
@@ -33,11 +17,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/lovegraphy/WebXCrawler.git
 cd WebXCrawler
-
+```
 Install dependencies:
 ```bash
 pip install requests beautifulsoup4
-
+```
 Usage
 Run the script webXcrawler.py
 
