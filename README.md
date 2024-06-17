@@ -23,14 +23,17 @@ Install dependencies:
 pip install requests beautifulsoup4
 ```
 ## Usage
-Run the script webXcrawler.py
-
+Run the script
+```bash
+python webXcrawler.py
+```
 ## Example
+```bash
 python webcrawler.py
 Enter the starting URL: https://example.com
 Enter the maximum depth to crawl (1-5):
 Enter the maximum depth to crawl: 3
-
+```
 ## Directory Structure
 After crawling, the directory structure will look like this:
 ```bash
