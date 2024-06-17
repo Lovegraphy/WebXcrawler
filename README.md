@@ -1,4 +1,5 @@
-# WebXcrawler ( a simple python tool for recursively crawling web pages )
+# WebXcrawler
+( a simple python tool for recursively crawling web pages )
 
 WebXcrawler is a Python tool for recursively crawling web pages and organizing retrieved content into files based on their types. It provides basic functionality to initiate a web crawl from a specified starting URL and allows customization of the maximum depth of the crawl.
 
